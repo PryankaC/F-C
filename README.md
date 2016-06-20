@@ -6,7 +6,7 @@ TDD course
 - [ ]
 - [ ]
 
-this five day course will teach us how to use 'GitHub' and the 'command line'
+this five day course will teach us how to use `GitHub` and the `command line`
 
 + what is TDD and why is it useful? What is the red/green/refactor cycle and why is it so important?
 
@@ -14,14 +14,23 @@ this five day course will teach us how to use 'GitHub' and the 'command line'
 
 - deepen your **knowledge** of *programming* in JavaScript using test-driven development
 `JavaScript`
+
+```JavaScript
+
 function () {
 
+
 }
+```
+```html
+<h1>Hello</h1>
+
 
 ```css
 body {
-    colour: white:
-}
+    colour: white;
+} ```
+
 
 
 
